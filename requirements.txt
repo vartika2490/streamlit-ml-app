@@ -1,0 +1,2 @@
+#This file lists all the Python libraries your project needs to run.
+# When you share your project, others can use this file to install the exact same versions of the libraries, ensuring everything works correctly.
